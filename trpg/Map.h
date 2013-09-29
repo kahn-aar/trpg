@@ -24,6 +24,10 @@ namespace TRPG
 
 
 	};
+
+	enum MapConst {
+		
+	}
 }
 
 #endif // MAP_H_INCLUDED

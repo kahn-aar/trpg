@@ -25,6 +25,8 @@ int main()
 	equipe.ajoutHeros(&battler);
 	equipe.affiche();
 
+	Combat battle(&equipe);
+
     while (window.isOpen())
     {
         sf::Event event;
