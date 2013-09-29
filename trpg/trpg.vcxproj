@@ -81,6 +81,7 @@
     <ClInclude Include="include.h" />
     <ClInclude Include="Item.h" />
     <ClInclude Include="Map.h" />
+    <ClInclude Include="Map_Const.h" />
     <ClInclude Include="PersoManager.h" />
     <ClInclude Include="Personnage.h" />
     <ClInclude Include="Team.h" />

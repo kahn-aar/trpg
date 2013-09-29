@@ -18,7 +18,7 @@ namespace TRPG
 		void unCombat();
 		void addEnemis(Ennemis* en){engages.push_back(en);}
 		void sort(){engages.sort();}
-		
+		void ajoutHeros();
 	};
 }
 
